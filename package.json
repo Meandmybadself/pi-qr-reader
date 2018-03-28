@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lodash": "^4.17.5",
     "node-zbarimg": "^1.0.1",
     "raspberry-pi-camera-native": "^0.0.0"
   }
